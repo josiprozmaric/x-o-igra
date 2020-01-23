@@ -1,0 +1,40 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+
+
+
+.container {
+width :600px;                        
+height:600px;
+box-shadow: 0 0 8px;
+margin:60px auto;
+
+
+}
+.box{
+
+	width:200px;
+	height:200px;
+	background-color:green;
+	float:left;
+	border:1px solid black;
+	box-sizing: border-box;
+	color: white;
+	font-size: 80px;
+	text-align: center;
+	line-height: 170px;
+	box-shadow: 0 0 8px;
+     
+
+}
+body{
+
+	background-color:cadetblue
+	;
+	
+      }
+
+
